@@ -15,6 +15,9 @@ Automated Score Aggregation (SUM): Automatically computes cumulative exam points
 
 Subject Mastery Classification: Binary tagging (1 = Strength, 0 = Weakness) per subject to quickly target academic intervention.
 
+<img width="930" height="607" alt="image" src="https://github.com/user-attachments/assets/e7ef42f8-6496-4d0d-a14d-f019f06c3411" />
+
+
 💡 Key Business & Academic Insights
 Study Hours vs. Performance Correlation: Students averaging above the cohort mean (~9.95 hrs/week) consistently show higher GPA metrics and fewer flagged subject weaknesses.
 
