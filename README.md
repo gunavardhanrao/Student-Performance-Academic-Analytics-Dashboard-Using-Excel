@@ -17,6 +17,10 @@ Subject Mastery Classification: Binary tagging (1 = Strength, 0 = Weakness) per 
 
 <img width="930" height="607" alt="image" src="https://github.com/user-attachments/assets/e7ef42f8-6496-4d0d-a14d-f019f06c3411" />
 
+## 📊 Dashboard Preview & Interactive Student Report
+
+<img width="1344" height="618" alt="image" src="https://github.com/user-attachments/assets/089883a9-522f-4f0a-805f-174faea1ce16" />
+
 
 💡 Key Business & Academic Insights
 Study Hours vs. Performance Correlation: Students averaging above the cohort mean (~9.95 hrs/week) consistently show higher GPA metrics and fewer flagged subject weaknesses.
